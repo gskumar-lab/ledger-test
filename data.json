@@ -64,17 +64,6 @@
             "status": "pending"
         },
         {
-            "amount": "999",
-            "amount_paid": 0,
-            "due_date": "2026-11-19",
-            "id": "1795067293",
-            "info": "",
-            "name": "gsk",
-            "payments": [
-            ],
-            "status": "pending"
-        },
-        {
             "amount": "100",
             "amount_paid": 100,
             "due_date": "2026-11-19",
