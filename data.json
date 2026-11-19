@@ -70,14 +70,20 @@
         },
         {
             "amount": "100",
-            "amount_paid": 0,
+            "amount_paid": 100,
             "due_date": "2026-11-19",
             "id": "1795108063",
             "info": "",
             "name": "sync test",
             "payments": [
+                {
+                    "amount": 100,
+                    "date": "2026-11-19",
+                    "desc": "None",
+                    "type": "accept"
+                }
             ],
-            "status": "pending"
+            "status": "paid"
         }
     ]
 }
