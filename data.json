@@ -2,7 +2,7 @@
     "accounts": [
         {
             "amount": "1000",
-            "amount_paid": 1000,
+            "amount_paid": 500,
             "due_date": "2026-11-20",
             "id": "1795024268",
             "info": "9876543210",
@@ -13,15 +13,9 @@
                     "date": "2026-11-17",
                     "desc": "None",
                     "type": "accept"
-                },
-                {
-                    "amount": 500,
-                    "date": "2026-11-18",
-                    "desc": "cash",
-                    "type": "accept"
                 }
             ],
-            "status": "paid"
+            "status": "pending"
         },
         {
             "amount": "5000",
