@@ -1,4 +1,15 @@
 {
     "accounts": [
+        {
+            "amount": "1000",
+            "amount_paid": 0,
+            "due_date": "2026-11-19",
+            "id": "1795111283",
+            "info": "",
+            "name": "test1",
+            "payments": [
+            ],
+            "status": "pending"
+        }
     ]
 }
