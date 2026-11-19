@@ -1,46 +1,6 @@
 {
     "accounts": [
         {
-            "amount": "1000",
-            "amount_paid": 500,
-            "due_date": "2026-11-20",
-            "id": "1795024268",
-            "info": "9876543210",
-            "name": "testuser1",
-            "payments": [
-                {
-                    "amount": 500,
-                    "date": "2026-11-17",
-                    "desc": "None",
-                    "type": "accept"
-                }
-            ],
-            "status": "pending"
-        },
-        {
-            "amount": "5000",
-            "amount_paid": 600,
-            "due_date": "2026-11-25",
-            "id": "1795024354",
-            "info": "12345",
-            "name": "test2",
-            "payments": [
-                {
-                    "amount": 500,
-                    "date": "2026-11-19",
-                    "desc": "None",
-                    "type": "accept"
-                },
-                {
-                    "amount": 100,
-                    "date": "2026-11-19",
-                    "desc": "None",
-                    "type": "accept"
-                }
-            ],
-            "status": "pending"
-        },
-        {
             "amount": "-2000",
             "amount_paid": -500,
             "due_date": "2026-12-12",
