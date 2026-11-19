@@ -1,44 +1,4 @@
 {
     "accounts": [
-        {
-            "amount": "-2000",
-            "amount_paid": -500,
-            "due_date": "2026-12-12",
-            "id": "1795024403",
-            "info": "321654",
-            "name": "test3",
-            "payments": [
-                {
-                    "amount": 100,
-                    "date": "2026-11-19",
-                    "desc": "None",
-                    "type": "give"
-                },
-                {
-                    "amount": 400,
-                    "date": "2026-11-19",
-                    "desc": "None",
-                    "type": "give"
-                }
-            ],
-            "status": "pending"
-        },
-        {
-            "amount": "100",
-            "amount_paid": 100,
-            "due_date": "2026-11-19",
-            "id": "1795108063",
-            "info": "",
-            "name": "sync test",
-            "payments": [
-                {
-                    "amount": 100,
-                    "date": "2026-11-19",
-                    "desc": "None",
-                    "type": "accept"
-                }
-            ],
-            "status": "paid"
-        }
     ]
 }
