@@ -42,12 +42,18 @@
         },
         {
             "amount": "-2000",
-            "amount_paid": 0,
+            "amount_paid": -100,
             "due_date": "2026-12-12",
             "id": "1795024403",
             "info": "321654",
             "name": "test3",
             "payments": [
+                {
+                    "amount": 100,
+                    "date": "2026-11-19",
+                    "desc": "None",
+                    "type": "give"
+                }
             ],
             "status": "pending"
         },
