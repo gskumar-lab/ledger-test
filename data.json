@@ -25,7 +25,7 @@
         },
         {
             "amount": "5000",
-            "amount_paid": 500,
+            "amount_paid": 600,
             "due_date": "2026-11-25",
             "id": "1795024354",
             "info": "12345",
@@ -33,6 +33,12 @@
             "payments": [
                 {
                     "amount": 500,
+                    "date": "2026-11-19",
+                    "desc": "None",
+                    "type": "accept"
+                },
+                {
+                    "amount": 100,
                     "date": "2026-11-19",
                     "desc": "None",
                     "type": "accept"
@@ -58,6 +64,17 @@
             "id": "1795067293",
             "info": "",
             "name": "gsk",
+            "payments": [
+            ],
+            "status": "pending"
+        },
+        {
+            "amount": "100",
+            "amount_paid": 0,
+            "due_date": "2026-11-19",
+            "id": "1795108063",
+            "info": "",
+            "name": "sync test",
             "payments": [
             ],
             "status": "pending"
